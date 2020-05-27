@@ -1,0 +1,23 @@
+{
+  "name": "my-first-app",
+  "version": "1.0.0",
+  "description": "Lab 02 - Doing things",
+  "main": "example-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon example-node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherErmel/comp-2068-lab-02.git"
+  },
+  "author": "Christopher Ermel - 200250446",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopherErmel/comp-2068-lab-02/issues"
+  },
+  "homepage": "https://github.com/ChristopherErmel/comp-2068-lab-02#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
