@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/ChristopherErmel/comp-2068-lab-02#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
